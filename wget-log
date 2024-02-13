@@ -1,0 +1,4 @@
+--2024-02-05 19:18:30--  https://update.code.visualstudio.com/commit:05047486b6df5eb8d44b2ecd70ea3bdf775fd937/server-linux-x64/stable
+Resolving update.code.visualstudio.com (update.code.visualstudio.com)... 13.107.246.55, 13.107.213.55, 2620:1ec:bdf::55, ...
+Connecting to update.code.visualstudio.com (update.code.visualstudio.com)|13.107.246.55|:443... connected.
+Unable to establish SSL connection.
